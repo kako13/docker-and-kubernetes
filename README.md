@@ -1,4 +1,4 @@
-#### *Este repositório é destinado ao conteúdo desenvolvido durante estudos sobre 
+#### *Este repositório é destinado ao conteúdo desenvolvido durante estudos sobre* 
 *[Docker](https://github.com/kako13/docker-and-kubernetes/tree/master/YMLS/Alura%20-%20Docker)* 
 e 
 *[Kubernetes](https://github.com/kako13/docker-and-kubernetes/tree/master/YMLS/Alura%20-%20Kubernetes)*
