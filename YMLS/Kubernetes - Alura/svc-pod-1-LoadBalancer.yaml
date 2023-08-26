@@ -1,0 +1,13 @@
+#Voltado a Cloud Provider
+apiVersion: v1
+kind: Service
+metadata:
+  name: svc-pod-1-LoadBalancer
+spec:
+  type: LoadBalancer
+  selector:
+    app: primeiro-pod
+  ports:
+    - port: 80
+      nodePort: 30000
+#      targetPort: 80
